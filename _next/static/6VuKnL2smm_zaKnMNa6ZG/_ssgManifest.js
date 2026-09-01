@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[game]","\u002F[game]\u002F[species]","\u002F[game]\u002Fpath","\u002F[game]\u002Fteam"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
